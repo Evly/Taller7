@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Aplicacion mis series</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_add_favourite">Agregar a favoritos</string>
+    <string name="action_play_next">Siguiente serie</string>
+    <string name="backdrop_title">Series del momento</string>
+    <string name="backdrop_subtitle">Las mejores 10</string>
+    <string name="serie1">Lucifer</string>
+    <string name="serie2">Riverdale</string>
+    <string name="serie3">Orange is the New Black</string>
+    <string name="serie4">Stranger Things</string>
+    <string name="serie5">The Paper House</string>
+    <string name="serie6">The walking dead</string>
+    <string name="serie7">The Seven Sins Capitale</string>
+    <string name="serie8">Sense 8</string>
+    <string name="serie9">Gossip girl</string>
+    <string name="serie10">Dead Note</string>
+    <string name="descripcion1">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion2">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion3">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion4">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion5">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion6">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion7">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion8">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion9">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="descripcion10">Ejemplo serie: En este espacio va la descripción del capitulo.</string>
+    <string name="clicSeleccionado">Click Seleccionado: </string>
+    <string name="canciones">Series</string>
+    <string name="favoritos">Agregar a favoritos</string>
+    <string name="siguiente">Siguiente Serie</string>
+    <string name="descripcion">Descripcion: </string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Music application</string>
+    <string name="action_settings">Configuration</string>
+    <string name="action_add_favourite">Add to Favorites</string>
+    <string name="action_play_next">Next song</string>
+    <string name="backdrop_title">Music for the moment</string>
+    <string name="backdrop_subtitle">The best 20</string>
+    <string name="serie1">Lucifer</string>
+    <string name="serie2">Riverdale</string>
+    <string name="serie3">Orange is the New Black</string>
+    <string name="serie4">Stranger Things</string>
+    <string name="serie5">La casa de papel</string>
+    <string name="serie6">The walking dead</string>
+    <string name="serie7">Los Siete Pecados Capitales</string>
+    <string name="serie8">Sense 8</string>
+    <string name="serie9">Gossip girl</string>
+    <string name="serie10">Dead Note</string>
+    <string name="descripcion1">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion2">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion3">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion4">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion5">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion6">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion7">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion8">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion9">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="descripcion10">Example series: Example series: In this space goes the description of the chapter.</string>
+    <string name="clicSeleccionado">Click Selected: </string>
+    <string name="canciones">Songs</string>
+    <string name="favoritos">Add to Favorites</string>
+    <string name="siguiente">Next song</string>
+    <string name="descripcion">Description: </string>
+</resources>
